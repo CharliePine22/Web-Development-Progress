@@ -1,0 +1,112 @@
+a {
+    color: #66BFBF;
+    line-height: 2;
+    font-size: 25px;
+    padding: 0px 10px;
+    position: relative;
+    top: 15px;
+}
+
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+
+button {
+    background-color: #11999E;
+    color: white;
+    padding: 15px 30px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.contact-me p {
+    color: black;
+}
+
+.code-pic {
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.middle-container {
+    background-color: whitesmoke;
+}
+
+.vg-pic {
+    height: 200px;
+    float: right;
+    clear: left;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #11999E;
+    color: white;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+
+.bottom-container p{
+    position: relative;
+    top: 20px;
+}
+
+.profile p {
+    text-align: center;
+    color: black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#lower_cloud {
+    position: absolute;
+    left: 300px;
+}
+
+#pro {
+    font-weight: normal;
+}
+
+#profile-pic {
+    width: 500px;
+    height: 500px;
+    border-radius: 10% / 50%;
+    padding-top: 100px;
+}
+
+#pro_status {
+    text-decoration: underline;
+}
+
+#upper_cloud {
+    position: relative;
+    top: 50px;
+    left: 350px;
+    padding: 50px 0;
+}
